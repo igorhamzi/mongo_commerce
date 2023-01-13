@@ -1,13 +1,22 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+## :information_source: Fut Champions Project
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+Projeto desenvolvido para consolidar os conhecimentos de MongoDb
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+---
+
+## :link: O que foi desenvolvido
+
+Neste projeto foi desenvolvido challenges para armazenar, buscar, editar e deletar dados do MongoDB
+
+---
+
+## Habilidades desenvolvidas
+
+
+* Criar e manipular Queries do banco de dados MongoDB para armazenar, buscar, editar e deletar dados;
+
+
+---
+
+
+### Projeto realizado no módulo de Back-end do Curso de Desenvolvimento WEB da TRYBE.
